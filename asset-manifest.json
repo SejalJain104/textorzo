@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textorzo/static/css/main.073c9b0a.css",
+    "main.js": "/textorzo/static/js/main.9c5bdbc4.js",
+    "static/js/787.fb9717d4.chunk.js": "/textorzo/static/js/787.fb9717d4.chunk.js",
+    "index.html": "/textorzo/index.html",
+    "main.073c9b0a.css.map": "/textorzo/static/css/main.073c9b0a.css.map",
+    "main.9c5bdbc4.js.map": "/textorzo/static/js/main.9c5bdbc4.js.map",
+    "787.fb9717d4.chunk.js.map": "/textorzo/static/js/787.fb9717d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9c5bdbc4.js"
+  ]
+}
